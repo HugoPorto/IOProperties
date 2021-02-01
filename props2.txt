@@ -1,0 +1,5 @@
+#Este arquivo foi gerado automaticamente
+#Mon Jan 25 07:19:07 BRT 2021
+msg3=C
+msg2=B
+msg1=A
